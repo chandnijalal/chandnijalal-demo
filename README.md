@@ -1,4 +1,3 @@
 # chandnijalal-demo
 This is my first Git Repository.
-
-Author - Chandni Jalal (Apna College)
+Author - Chandni (Self Employed)
